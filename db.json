@@ -1,0 +1,384 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/dreams-candle-8oz",
+      "img": "https://commondeer.com/cdn/shop/files/jgupnnrqmzin1qzfdvfk.png?v=1722556364",
+      "img2": "https://commondeer.com/cdn/shop/files/r1am5z1uege8ldndokxc_720x.png?v=1722556357",
+      "product__title": "Dreams Candle - 8oz",
+      "money": "$44.00",
+      "catagory": "paper"
+    },
+    {
+      "id": 2,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/vintage-candle-8oz",
+      "img": "https://commondeer.com/cdn/shop/files/xfkjy9xfdadsunwnoamw_540x.png?v=1722555939>",
+      "img2": "https://commondeer.com/cdn/shop/files/ykh6eiykkgtjohyxriud.png?v=1722555936",
+      "product__title": "Vintage Candle - 8oz",
+      "money": "$36.00",
+      "catagory": "food"
+    },
+    {
+      "id": 3,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/dsotarxgmj6bfqxqqmgg_540x.png?v=1722555929",
+      "img2": "https://commondeer.com/cdn/shop/files/irkif1rjizbakzxbfuih_540x.png?v=1722555926",
+      "product__title": "1982 Candle",
+      "money": "$34.00",
+      "catagory": "product"
+    },
+    {
+      "id": 4,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/h5osjjvdfggi2zgesaii_540x.png?v=1722555917",
+      "img2": "https://commondeer.com/cdn/shop/files/irkif1rjizbakzxbfuih_540x.png?v=1722555926",
+      "product__title": "Mixtape Candle - 8oz",
+      "money": "$37.00",
+      "catagory": "food"
+    },
+    {
+      "id": 5,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/xbmqn9krtsh30udlez2q_540x.png?v=1722478127",
+      "img2": "https://commondeer.com/cdn/shop/files/wtcr2olb2b7fgr7kabmo_540x.png?v=1722478129",
+      "product__title": "Barnes Made Glacier Soap",
+      "money": "$34.00",
+      "catagory": "product"
+    },
+    {
+      "id": 6,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/ysjqzt3mfj5oe5532158_540x.png?v=1721009990",
+      "img2": "https://commondeer.com/cdn/shop/files/p4hdhr5sig8sh27jks5d_540x.png?v=1721009992",
+      "product__title": "Ceramic Woodgrain Dish - Loon",
+      "money": "$24.00",
+      "catagory": "paper"
+    },
+    {
+      "id": 7,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/zge6rvht9tgrsnjeptur_540x.png?v=1721008745",
+      "img2": "https://commondeer.com/cdn/shop/files/rzym4yzspt3fqirw2bys_540x.png?v=1721008742",
+      "product__title": "Burlington Canvas Coasters With Grommet",
+      "money": "$69.00",
+      "catagory": "food"
+    },
+    {
+      "id": 8,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/gdebljowasylqcx8hwuw_540x.png?v=1721008739",
+      "img2": "https://commondeer.com/cdn/shop/files/wxmkgyzs7nxcl4xydmdn_540x.png?v=1721008737",
+      "product__title": "Vermont Canvas Coasters with Grommet",
+      "money": "$17.00",
+      "catagory": "product"
+    },
+    {
+      "id": 9,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/dop9nz3rtikso20mmyxe_540x.png?v=1721006254",
+      "img2": "https://commondeer.com/cdn/shop/files/zp09jo00tex73ir9vjp2_540x.png?v=1721006259",
+      "product__title": "Lake Champlain Wave Canvas Coasters",
+      "money": "$27.00",
+      "catagory": "paper"
+    },
+    {
+      "id": 10,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/gua8ov2kimtpvgvaljub_540x.png?v=1720755840",
+      "img2": "https://commondeer.com/cdn/shop/files/bnbg9r9n6b2q1jc0cys2_540x.png?v=1720755842",
+      "product__title": "Leather Lake Champlain Travel Mug - Short",
+      "money": "$57.00",
+      "catagory": "product"
+    },
+    {
+      "id": 11,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/kq6fjmt4ptqfeasi6qys_540x.png?v=1720755548",
+      "img2": "https://commondeer.com/cdn/shop/files/b5envcxntsmjcvehumsh_540x.png?v=1720755556",
+      "product__title": "Skida Sun Tour - Coming Home",
+      "money": "$26.00",
+      "catagory": "food"
+    },
+    {
+      "id": 12,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/eskhpd0u72643sv5r0v7_540x.png?v=1720754301",
+      "img2": "https://commondeer.com/cdn/shop/files/yct0jfstdmdf57fmq6fx_540x.png?v=1720754304",
+      "product__title": "Skida Sun Tour - Coming Home",
+      "money": "$24.00",
+      "catagory": "paper"
+    },
+    {
+      "id": 13,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/plnll5gtbq4s9npodpfj_540x.png?v=1720754288",
+      "img2": "https://commondeer.com/cdn/shop/files/e02qe9oaxl7n206iogky_540x.png?v=1720754293",
+      "product__title": "Happy Camper Tent Sticker",
+      "money": "$20.00",
+      "catagory": "food"
+    },
+    {
+      "id": 14,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/teajh1fx8ytttqk5opoh_540x.png?v=1720754019",
+      "img2": "https://commondeer.com/cdn/shop/files/zbpzpcntjhpubr7kdf8n_540x.png?v=1720754290",
+      "product__title": "Happy Camper Tent Sticker",
+      "money": "$28.00",
+      "catagory": "paper"
+    },
+    {
+      "id": 15,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/ngektkflnwsytwutlfjn_540x.png?v=1720754008",
+      "img2": "https://commondeer.com/cdn/shop/files/zwqo5996jmpb7awwpaqf_540x.png?v=1720754010",
+      "product__title": "Happy Camper Bear Sticker",
+      "money": "$77.00",
+      "catagory": "food"
+    },
+    {
+      "id": 16,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/rcjaforofk5y7dxsugf0_540x.png?v=1720753986",
+      "img2": "https://commondeer.com/cdn/shop/files/u31tkxoyfty2csvlr0yt_540x.png?v=1720753988",
+      "product__title": "Happy Camper Bear Sticker",
+      "money": "$45.00",
+      "catagory": "paper"
+    },
+    {
+      "id": 17,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/oxdrshxo325uvqqbedbj_540x.png?v=1720753993",
+      "img2": "https://commondeer.com/cdn/shop/files/nschqpokm2qum3n8rneo_540x.png?v=1720753996",
+      "product__title": "Happy Camper Bear Sticker",
+      "money": "$52.00",
+      "catagory": "product"
+    },
+    {
+      "id": 18,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/wtrugbrcjwkvf5tsh8jh_540x.png?v=1720629117",
+      "img2": "https://commondeer.com/cdn/shop/files/onagjlq0e35es6j9sgj1_540x.png?v=1720629110",
+      "product__title": "Happy Camper Bear Sticker",
+      "money": "$35.00",
+      "catagory": "food"
+    },
+    {
+      "id": 19,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/qs0s5tg40je4qm0070bg_540x.png?v=1720629088",
+      "img2": "https://commondeer.com/cdn/shop/files/u80ncxp4fqu1yp28efmz_540x.png?v=1720629098",
+      "product__title": "Happy Camper Bear Sticker",
+      "money": "$96.00",
+      "catagory": "paper"
+    },
+    {
+      "id": 20,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/ng3lpmoab4r7hxkupgkw_540x.png?v=1720622586",
+      "img2": "https://commondeer.com/cdn/shop/files/ngdwtuxs2trywle5gspw_540x.png?v=1720622584",
+      "product__title": "Happy Camper Bear Sticker",
+      "money": "$87.00",
+      "catagory": "food"
+    },
+    {
+      "id": 21,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/s3p6dnpmszdqgkzoeguz_540x.png?v=1720622205",
+      "img2": "https://commondeer.com/cdn/shop/files/o1g2w268axeli4hq3rjp_540x.png?v=1720622208",
+      "product__title": "Happy Camper Bear Sticker",
+      "money": "$43.00",
+      "catagory": "food"
+    },
+    {
+      "id": 22,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/bilalsuksvnpujwv3avw_540x.png?v=1720557425",
+      "img2": "https://commondeer.com/cdn/shop/files/wiqxrphn6livz6aos6xa_540x.png?v=1720557429",
+      "product__title": "Happy Camper Bear Sticker",
+      "money": "$67.00",
+      "catagory": "product"
+    },
+    {
+      "id": 23,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/be386y15llxnr55b61mx_540x.png?v=1720548497",
+      "img2": "https://commondeer.com/cdn/shop/files/zywzuyp28ox0snoa87h2_540x.png?v=1720548495",
+      "product__title": "Happy Camper Bear Sticker",
+      "money": "$67.00",
+      "catagory": "food"
+    },
+    {
+      "id": 24,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/ejolvfbepjycdf7cyqed_540x.png?v=1720556957",
+      "img2": "https://commondeer.com/cdn/shop/files/wenauyclukvbm6mqr2k4_540x.png?v=1720556952",
+      "product__title": "Happy Camper Bear Sticker",
+      "money": "$45.00",
+      "catagory": "paper"
+    },
+    {
+      "id": 25,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/wfhjouoa3790ggyhhk36_540x.png?v=1720556567",
+      "img2": "https://commondeer.com/cdn/shop/files/ye1nqhykd0zcz1mly0h8_540x.png?v=1720556557",
+      "product__title": "Happy Camper Bear Sticker",
+      "money": "$26.00",
+      "catagory": "food"
+    },
+    {
+      "id": 26,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/be386y15llxnr55b61mx_540x.png?v=1720548497",
+      "img2": "https://commondeer.com/cdn/shop/files/zywzuyp28ox0snoa87h2_540x.png?v=1720548495",
+      "product__title": "Happy Camper Bear Sticker",
+      "money": "$22.00",
+      "catagory": "product"
+    },
+    {
+      "id": 27,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/x3p1mzmlgv9bemzrst7h.png?v=1720548230",
+      "img2": "https://commondeer.com/cdn/shop/files/mtngrlsujj3erc78j8ws_540x.png?v=1720548228",
+      "product__title": "Happy Camper Bear Sticker",
+      "money": "$29.00",
+      "catagory": "paper"
+    },
+    {
+      "id": 28,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/products/78eedd73ac08d54e87a17f5d887846cd_540x.png?v=1703440219",
+      "img2": "https://commondeer.com/cdn/shop/products/095341d5e78284ba616199d94afd27cb_540x.png?v=1703440217",
+      "product__title": "Happy Camper Bear Sticker",
+      "money": "$17.00",
+      "catagory": "food"
+    },
+    {
+      "id": 29,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/sswlwmfnrtcff5zcgpm5_540x.png?v=1720548242",
+      "img2": "https://commondeer.com/cdn/shop/files/z0nltz3ritjatcttybl3.png?v=1720548240",
+      "product__title": "Happy Camper Bear Sticker",
+      "money": "$28.00",
+      "catagory": "product"
+    },
+    {
+      "id": 30,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/qnmirol5kicfxcnxhz80_540x.png?v=1720547856",
+      "img2": "https://commondeer.com/cdn/shop/files/dkphpy7jxwparqtjv7sz_540x.png?v=1720547858",
+      "product__title": "Happy Bear Sticker",
+      "money": "$37.00",
+      "catagory": "paper"
+    },
+    {
+      "id": 31,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/y51rgasal88ynrxkdtcd_540x.png?v=1720546827",
+      "img2": "https://commondeer.com/cdn/shop/files/ih6ecnzx4b8bae2apifx_540x.png?v=1720546815",
+      "product__title": "Happy Camper Bear ",
+      "money": "$97.00",
+      "catagory": "food"
+    },
+    {
+      "id": 32,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/xbqh5xvm3bmzsktkhz0r_540x.png?v=1720547477",
+      "img2": "https://commondeer.com/cdn/shop/files/ltcahpjenfgpei108zsf_540x.png?v=1720547474",
+      "product__title": "Happy Camper Sticker",
+      "money": "$21.00",
+      "catagory": "paper"
+    },
+    {
+      "id": 33,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/aacdbafcrrjipoqhs6uc_540x.png?v=1720364045",
+      "img2": "https://commondeer.com/cdn/shop/files/zulcrpyqg7yzajfk6zrx_540x.png?v=1720364047",
+      "product__title": " Camper Bear Sticker",
+      "money": "$27.00",
+      "catagory": "product"
+    },
+    {
+      "id": 34,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/sbqzbjs6tlosedmubda4.jpg?v=1721010302",
+      "img2": "https://commondeer.com/cdn/shop/files/rl1zkf8w3pnts1bdyudn.png?v=1721010308",
+      "product__title": "Family Hug Print - 8x10",
+      "money": "$77.00",
+      "catagory": "food"
+    },
+    {
+      "id": 35,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/zrs8rjksiflsnesjqep3_540x.png?v=1719860849",
+      "img2": "https://commondeer.com/cdn/shop/files/rmneyh4emc9kpxc4lkk2_540x.png?v=1719860860",
+      "product__title": "Sketchbook",
+      "money": "$76.00",
+      "catagory": "paper"
+    },
+    {
+      "id": 36,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/jyrrvc47onutpbdulnog_540x.png?v=1719859462",
+      "img2": "https://commondeer.com/cdn/shop/files/atvzi16szxdmg6btvvuq_540x.png?v=1719859456",
+      "product__title": "Modernist Deer Paint-By-Numbers Kit",
+      "money": "$18.00",
+      "catagory": "food"
+    },
+    {
+      "id": 37,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/xnuohltsal29pg6utjpc_540x.png?v=1718194367",
+      "img2": "https://commondeer.com/cdn/shop/files/pgcojnwpr5tuzfwsyla3_540x.png?v=1718194371",
+      "product__title": "Night of Joy Candle - 9oz",
+      "money": "$43.00",
+      "catagory": "product"
+    },
+    {
+      "id": 38,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/bdtl7ba2whr8ms8rgewx_540x.png?v=1718133663",
+      "img2": "https://commondeer.com/cdn/shop/files/njrym9kt62t2xrqdlqgt_540x.png?v=1718133661",
+      "product__title": "Cashmere + French Orris Cozy Candle - 8oz",
+      "money": "$34.00",
+      "catagory": "paper"
+    },
+    {
+      "id": 39,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/cghjijovlfflc9nagdjr_540x.png?v=1718145975",
+      "img2": "https://commondeer.com/cdn/shop/files/c8kddyecgrrz89g7n2kf_540x.png?v=1718145977",
+      "product__title": "Dulce De Cuerpo Cactus Body Creme",
+      "money": "$56.00",
+      "catagory": "product"
+    },
+    {
+      "id": 40,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/wpebxqvucco53mssvllf_540x.jpg?v=1717118118",
+      "img2": "https://commondeer.com/cdn/shop/files/mj75te6kdcbm82agsc4p_540x.png?v=1717118123",
+      "product__title": "Vermont Dog Eats Dog Treats - Ginger's Snaps",
+      "money": "$76.00",
+      "catagory": "food"
+    }
+  ],
+  "cart": [
+    {
+      "id": 8,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/gdebljowasylqcx8hwuw_540x.png?v=1721008739",
+      "img2": "https://commondeer.com/cdn/shop/files/wxmkgyzs7nxcl4xydmdn_540x.png?v=1721008737",
+      "product__title": "Vermont Canvas Coasters with Grommet",
+      "money": "$17.00",
+      "catagory": "product"
+    },
+    {
+      "id": 6,
+      "product-link": "https://commondeer.com/collections/all-products-1/products/1982-candle",
+      "img": "https://commondeer.com/cdn/shop/files/ysjqzt3mfj5oe5532158_540x.png?v=1721009990",
+      "img2": "https://commondeer.com/cdn/shop/files/p4hdhr5sig8sh27jks5d_540x.png?v=1721009992",
+      "product__title": "Ceramic Woodgrain Dish - Loon",
+      "money": "$24.00",
+      "catagory": "paper"
+    }
+  ]
+}
